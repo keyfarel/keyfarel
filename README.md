@@ -39,24 +39,28 @@
 ## Tech Stack
 
 <div align="center">
-  <p><b>Languages & Backend</b></p>
+  <p><b>Software & Backend</b></p>
   <p>
     <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-141414?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-141414?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-141414?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-141414?style=for-the-badge&logo=supabase&logoColor=white" />
   </p>
 
   <p><b>Embedded, IoT & Infrastructure</b></p>
   <p>
     <img src="https://img.shields.io/badge/ESP32-141414?style=for-the-badge&logo=espressif&logoColor=white" />
     <img src="https://img.shields.io/badge/Arduino-141414?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/MQTT-141414?style=for-the-badge&logo=mqtt&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-141414?style=for-the-badge&logo=firebase&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-141414?style=for-the-badge&logo=vercel&logoColor=white" />
   </p>
 </div>
 
