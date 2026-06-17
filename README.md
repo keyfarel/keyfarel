@@ -1,26 +1,26 @@
-<div>
+<div align="center">
   <h1>Key Firdausi Alfarel</h1>
-</div>
-
-<div>
-  <img align="right" src="./earth-orbit.gif" width="230" alt="earth-orbit">
+  <p><i>Currently orbiting around AI, IoT, and Celestial Mechanics.</i></p>
   
-  <p align="left">
-    <p><i>Currently orbiting around AI, IoT, and Celestial Mechanics.</i></p>
+  <br>
+  <img src="./earth-orbit.gif" width="180" alt="earth-orbit">
+  <br><br>
+
+  <p>
     <a href="mailto:keyfarel645@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/key-firdausi-alfarel-566616290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://keyfarel.github.io/" target="_blank"><img src="https://img.shields.io/badge/Stargazing_Portfolio-141414?style=for-the-badge&logo=nebula&logoColor=white"/></a>
   </p>
-
-  <p>
-    Hi. I am an informatics student who spends most of my time messing around with microcontrollers, backend logic, and looking up at the night sky.
-  </p>
-  <p>
-    I like building systems that connect hardware to the internet. I prefer letting AI handle the boilerplate code so I can focus on the actual architecture, logic, and making things work efficiently. Work smart, not hard.
-  </p>
 </div>
 
-<br clear="both">
+<br>
+
+<p align="center">
+  Hi. I am an informatics student who spends most of my time messing around with microcontrollers, backend logic, and looking up at the night sky.
+  <br><br>
+  I like building systems that connect hardware to the internet. I prefer letting AI handle the boilerplate code so I can focus on the actual architecture, logic, and making things work efficiently. Work smart, not hard.
+</p>
+
 <hr>
 
 ## What I'm Into
@@ -38,25 +38,27 @@
 
 ## Tech Stack
 
-<p><b>Languages & Backend</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-141414?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-141414?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-141414?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<div align="center">
+  <p><b>Languages & Backend</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-141414?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-141414?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-141414?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=white" />
+  </p>
 
-<p><b>Embedded, IoT & Infrastructure</b></p>
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP32-141414?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-141414?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-141414?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+  <p><b>Embedded, IoT & Infrastructure</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/ESP32-141414?style=for-the-badge&logo=espressif&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arduino-141414?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-141414?style=for-the-badge&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=white" />
+  </p>
+</div>
 
 <hr>
 
