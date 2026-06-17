@@ -9,7 +9,7 @@
   <p>
     <a href="mailto:keyfarel645@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/key-firdausi-alfarel-566616290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://keyfarel.github.io/" target="_blank"><img src="https://img.shields.io/badge/Stargazing_Portfolio-141414?style=for-the-badge&logo=nebula&logoColor=white"/></a>
+    <a href="https://keyfarel.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-141414?style=for-the-badge&logo=nebula&logoColor=white"/></a>
   </p>
 </div>
 
