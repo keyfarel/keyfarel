@@ -1,158 +1,81 @@
-# Key Firdausi Al Farel
+<div>
+  <h1>Key Firdausi Alfarel</h1>
+</div>
 
-> Currently orbiting around AI, IoT, and Celestial Mechanics.
+<div>
+  <img align="right" src="./earth-orbit.gif" width="230" alt="earth-orbit">
+  
+  <p align="left">
+    <p><i>Currently orbiting around AI, IoT, and Celestial Mechanics.</i></p>
+    <a href="mailto:keyfarel645@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/key-firdausi-alfarel-566616290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://keyfarel.github.io/" target="_blank"><img src="https://img.shields.io/badge/Stargazing_Portfolio-141414?style=for-the-badge&logo=nebula&logoColor=white"/></a>
+  </p>
 
-![earth-orbit](./earth-orbit.gif)
+  <p>
+    Hi. I am an informatics student who spends most of my time messing around with microcontrollers, backend logic, and looking up at the night sky.
+  </p>
+  <p>
+    I like building systems that connect hardware to the internet. I prefer letting AI handle the boilerplate code so I can focus on the actual architecture, logic, and making things work efficiently. Work smart, not hard.
+  </p>
+</div>
 
-I build systems that bridge the physical world, intelligent computation, and astronomical observation.
+<br clear="both">
+<hr>
 
-My primary interests revolve around embedded systems, artificial intelligence, backend engineering, and astronomical data processing. I enjoy transforming raw sensor readings, telemetry streams, and celestial imagery into meaningful information that can drive better decisions.
+## What I'm Into
 
----
+> **IoT & Embedded Systems** <br>
+> Give me an ESP32, some sensors, and a message broker, and I will figure the rest out.
 
-## Core Domains
+> **Practical AI** <br>
+> I focus on how AI can optimize workflows and edge intelligence rather than typing everything from scratch.
 
-### Artificial Intelligence
+> **Astronomy & Astrophotography** <br>
+> Hunting for the Galactic Core, stacking photons, and processing deep-sky images.
 
-Exploring practical applications of AI for:
+<hr>
 
-- Intelligent decision systems
-- Sensor data analysis
-- Automation and optimization
-- Computational efficiency
-- Edge intelligence
+## Tech Stack
 
-### Embedded Systems & IoT
+<p><b>Languages & Backend</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-141414?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-141414?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-141414?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-141414?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-Designing connected devices and infrastructure using:
+<p><b>Embedded, IoT & Infrastructure</b></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-141414?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-141414?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-141414?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
 
-- ESP32
-- Arduino
-- MQTT
-- Node-RED
-- Real-time monitoring systems
-- Environmental sensing platforms
+<hr>
 
-### Astronomy & Astrophotography
+## Beyond the Screen
 
-Studying and processing astronomical data through:
+When I am not debugging logic or wiring up hardware, you will probably find me:
 
-- Deep Sky Imaging
-- Galactic Core Photography
-- Image Calibration & Stacking
-- Celestial Object Tracking
-- Astronomical Data Analysis
+* Going on solo motorcycle night rides to clear my head and find dark skies.
+* Capturing the Galactic Core and processing astrophotography data.
+* Enjoying the quiet as an introvert recharging away from the crowd.
 
----
+<hr>
 
-## Technology Stack
-
-### Languages
-
-```text
-Java
-PHP
-JavaScript
-Python
-SQL
-```
-
-### Backend
-
-```text
-Laravel
-Livewire
-REST APIs
-MySQL
-Hapi.js
-```
-
-### Embedded & IoT
-
-```text
-ESP32
-Arduino
-MQTT
-Node-RED
-TCP/IP Networking
-Sensor Integration
-```
-
-### Infrastructure & Tools
-
-```text
-Git
-GitHub
-Linux
-Docker
-Azure Data Studio
-IntelliJ IDEA
-VS Code
-```
-
----
-
-## Current Research Interests
-
-```text
-AI-Augmented Embedded Systems
-Edge Computing
-IoT Architecture
-Cloud-Native Backend Services
-Computer Vision
-Astronomical Image Processing
-Data Engineering
-```
-
----
-
-## What I'm Building
-
-- Smart IoT ecosystems for real-world monitoring
-- AI-assisted automation systems
-- Backend services and APIs
-- Data processing pipelines
-- Astronomy-related software experiments
-- Sustainable technology solutions
-
----
-
-## Engineering Philosophy
-
-> Build systems that can observe, understand, and adapt.
-
-I am particularly interested in the intersection of intelligent algorithms, connected devices, and scientific observation. Whether the data originates from an environmental sensor or a deep-sky exposure, the challenge remains the same: extracting signal from noise and turning information into insight.
-
----
-
-## Beyond Software
-
-Outside of software engineering, I spend time exploring:
-
-- Deep-sky astrophotography
-- Galactic core imaging
-- Space science and celestial mechanics
-- Scientific data visualization
-- Emerging technologies
-
----
-
-## Connect
-
-I am always interested in discussions involving:
-
-- Artificial Intelligence
-- Embedded Systems
-- Internet of Things
-- Backend Engineering
-- Astronomy
-- Astrophotography
-- Scientific Computing
-
----
+## Cosmic Telemetry
 
 <div align="center">
-
-*"Between silicon and starlight, there is always another system waiting to be understood."*
-
+  <img src="https://github-readme-stats.vercel.app/api?username=keyfarel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyfarel&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  
+  <br><br>
+  <p><i>"Between silicon and starlight, there is always another system waiting to be understood."</i></p>
 </div>
